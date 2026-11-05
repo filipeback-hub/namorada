@@ -1,0 +1,17 @@
+ body {
+        background-color: white !important;
+        color: black !important;
+    }
+
+dialog {
+    color-scheme: light;
+    background-color: white !important;
+    color: black !important;
+}
+
+dialog .dialog-header,
+dialog .dialog-body,
+dialog .dialog-footer {
+    background-color: white !important;
+    color: black !important;
+}
